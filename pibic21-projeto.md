@@ -1,20 +1,32 @@
 ---
+<<<<<<< HEAD
 title: "Projeto de pesquisa"
 date: 2020-05-04
+=======
+title : Projeto de pesquisa
+date  : 2020-05-04
+lang  : pt
+csl      : 'https://raw.githubusercontent.com/citation-style-language/styles/master/associacao-brasileira-de-normas-tecnicas.csl'
+bibliography: 'projeto.bib'
+suppress-bibliography: false
+nocite: "@*"
+>>>>>>> master
 ---
 
 # Projeto de pesquisa
 
 ## Planos de Trabalho
 
-  - [Arqueologia das antigas casas rurais no Distrito Federal e entorno](pibic21-arqueologia.md):
-    Ana Caroline dos Santos Paiva
-  - [Distribuições da morada eclética em Goiás](pibic21-distrib.md):
-    Flávia Rosa de la Plata
-  - [Tipologias de fundações na construção tradicional do Brasil central](pibic21-fundacoes.md):
-    Iriani Jéssica Pinto Ganga
-  - [Arqueologia da morada suburbana na rua do Rosário, Luziânia](pibic21-luziania.md):
-    Mariana de Fátima Macedo Nunes de Azevedo
+- [Arqueologia da casa da fazenda Gama](pibic21-gama.md):
+  Ana Caroline dos Santos Paiva 
+- [Distribuições da morada eclética em Goiás](pibic21-distrib.md):
+  Flávia Rosa de la Plata
+- [Tipologias de fundações na construção tradicional do Brasil central](pibic21-fundacoes.md):
+  Iriani Jéssica Pinto Ganga
+- [Arqueologia da morada suburbana na rua do Rosário, Luziânia](pibic21-luziania.md):
+  Mariana de Fátima Macedo Nunes de Azevedo
+- [Arqueologia da casa da fazenda Velha, Distrito Federal](pibic21-fazvelha.md):
+  Tainá Lourenço de Abreu
 
 ## Resiliência urbana: estratégias adaptativas na construção tradicional
 
