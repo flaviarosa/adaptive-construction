@@ -4,7 +4,7 @@ title: "Adaptive strategies in traditional construction"
 
 # Adaptive strategies in traditional construction
 
-![Website build](https://github.com/dmcpatrimonio/adaptive-construction/workflows/Website%20build/badge.svg)
+![Website](https://github.com/dmcpatrimonio/adaptive-construction/workflows/Website/badge.svg)
 
 ## Adaptive strategies in traditional construction
 
