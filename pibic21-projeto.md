@@ -1,11 +1,6 @@
 ---
-title : Projeto de pesquisa
-date  : 2020-05-04
-lang  : pt
-csl      : 'styles/associacao-brasileira-de-normas-tecnicas.csl'
-bibliography: 'projeto.bib'
-suppress-bibliography: false
-nocite: "@*"
+title: "Projeto de pesquisa"
+date: 2020-05-04
 ---
 
 # Projeto de pesquisa
