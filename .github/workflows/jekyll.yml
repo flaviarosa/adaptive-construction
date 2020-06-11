@@ -9,8 +9,6 @@ on:
 jobs:
   pandoc:
     runs-on: ubuntu-latest
-    env:
-      commit_message: ${{ github.event.head_commit.message }}
     steps:
     - uses: actions/checkout@v2
     - name: Checkout CSL styles for conversion
@@ -34,9 +32,12 @@ jobs:
       uses: actions/checkout@v2
       with:
         ref : 'gh-pages'
-    - name: Merge changes from active branch
+        fetch-depth: 0
+    - name: Merge changes from master
       run: |
-        git merge ${{ env.GITHUB_REF }}
+        git config --local user.email "runner@github.com"
+        git config --local user.name  "$GITHUB_ACTOR"
+        git merge origin/master
     - name: Update pages
       uses: actions/download-artifact@v2
       with:
@@ -58,10 +59,6 @@ jobs:
       uses: actions/checkout@v2
       with:
         ref : 'gh-pages'
-    - name: Merge changes from master
-      run: |
-        git fetch --all
-        git merge origin/master
     - name: Update pages
       uses: actions/download-artifact@v2
       with:
@@ -74,5 +71,5 @@ jobs:
         git config --local user.name  "Automated build"
         git add .
         git commit -m "${{ env.commit_message }}" -a
-        git pull
+        git pull --ff-only
         git push
