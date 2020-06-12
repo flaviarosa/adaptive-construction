@@ -8,7 +8,7 @@ author:
 
 # Arqueologia da casa da fazenda Velha, Distrito Federal
 
-# Objetivos, problema e justificativa
+## Objetivos, problema e justificativa
 
 Este plano de trabalho busca resgatar o conhecimento construtivo e
 histórico sobre a fazenda Velha, uma morada rural do século XIX situada
@@ -64,7 +64,7 @@ documentação fotogramétrica usando equipamentos simples e software
 livre, combinando os paradigmas do Historic Building Information
 Modeling (HBIM) e dos Sistemas de Informação Geográfica (SIG).
 
-# Viabilidade, recursos e metodologia
+## Viabilidade, recursos e metodologia
 
 Inserir a descrição da metodologia da pesquisa contendo os passos
 metodológicos necessários para a sua execução e para o alcance dos
@@ -77,7 +77,7 @@ aluno, de maneira a mostrar a viabilidade da execução da pesquisa.
 
 Texto com 4000 caracteres.
 
-# Bibliografia
+## Bibliografia
 
 Preenchimento não obrigatório, caso a bibliografia do plano de trabalho
 do(a) Aluno(a) já esteja inclusa na bibliografia da proposta de pesquisa
@@ -85,10 +85,10 @@ do(a) Orientador(a)
 
 Texto com no máximo 2000 caracteres.
 
-# Competências e habilidades
+## Competências e habilidades
 
 Texto com no máximo 1000 caracteres.
 
-# Cronograma
+## Cronograma
 
 Mês a mês
