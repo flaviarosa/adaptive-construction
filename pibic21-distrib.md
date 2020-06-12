@@ -8,7 +8,7 @@ author:
 
 # Distribuições da morada eclética em Goiás
 
-## Objetivos, problema e justificativa
+# Objetivos, problema e justificativa
 
 Este plano de trabalho consiste numa classificação morfológica das
 plantas de casas goianas entre o final do século XIX e o início do
@@ -66,7 +66,7 @@ concreto armado --- bem como a implantação da casa afastada das divisas
 do lote são transformações autônomas e não necessariamente concomitantes
 com a adoção do partido eclético.
 
-## Viabilidade, recursos e metodologia
+# Viabilidade, recursos e metodologia
 
 Esta pesquisa será desenvolvida em três etapas:
 
@@ -125,7 +125,7 @@ modestos recursos de computação.
     
     Texto com 4000 caracteres.
 
-## Bibliografia
+# Bibliografia
 
 <div id="refs" class="references">
 
@@ -341,10 +341,10 @@ SPELTZ, A. **A Architectura Classica No Brazil : Novo Vinhola Brazileiro Ao Alca
 
 </div>
 
-## Competências e habilidades
+# Competências e habilidades
 
 Texto com no máximo 1000 caracteres.
 
-## Cronograma
+# Cronograma
 
 Mês a mês

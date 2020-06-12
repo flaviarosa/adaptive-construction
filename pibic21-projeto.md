@@ -5,7 +5,7 @@ date: 2020-05-04
 
 # Projeto de pesquisa
 
-## Planos de trabalho de iniciação científica
+# Planos de trabalho de iniciação científica
 
   - [Arqueologia da casa da fazenda Gama](pibic21-gama.md):
     Ana Caroline dos Santos Paiva
@@ -18,9 +18,9 @@ date: 2020-05-04
   - [Arqueologia da casa da fazenda Velha, Distrito Federal](pibic21-fazvelha.md):
     Tainá Lourenço de Abreu
 
-## Resiliência urbana: estratégias adaptativas na construção tradicional
+# Resiliência urbana: estratégias adaptativas na construção tradicional
 
-### Problemática e objetivos
+## Problemática e objetivos
 
 Este projeto de pesquisa investiga a ocorrência de sistemas de ordem
 emergente na construção moderna brasileira --- da segunda metade do
@@ -97,7 +97,7 @@ estipulamos os objetivos a seguir.
     contextos de transformação gradual das condicionantes culturais,
     políticas e técnicas.
 
-### Justificativa
+## Justificativa
 
 A resiliência da gestão urbana tem recebido, ao longo das últimas
 décadas, crescente destaque na literatura acadêmica e na formulação de
@@ -158,7 +158,7 @@ normativo da atualidade.
 
 <!--Até 8000 caracteres-->
 
-### Metodologia
+## Metodologia
 
 Os objetivos desta pesquisa implicam uma sucessão de etapas consistindo
 em documentar, classificar e analisar vestígios materiais e registros
@@ -250,7 +250,7 @@ aproximações e divergências eventualmente verificadas no universo de
 objetos a serem documentados oferecerão os indícios para elaborar
 taxonomias de sistemas edilícios tradicionais.
 
-### Bibliografia crítica
+## Bibliografia crítica
 
 <div id="refs" class="references">
 
