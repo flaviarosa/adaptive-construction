@@ -48,6 +48,15 @@ Texto com 5000 caracteres.
 Viabilidade, recursos e metodologia
 ===================================
 
+Para que a realização da pesquisa transcorra de forma coesa e fluida, a mesma será organizada da seguinte forma:
+•	Coleta de dados e informações por meio de visitas técnicas às edificações escolhidas 
+•	Reunir e analisar as características gerais e intrínsecas dos materiais utilizados, assim como a sua durabilidade e a forma que foram utilizados; 
+•	Identificar as problemáticas dos objetos analisados e indicar possíveis soluções e causas;
+•	Formular modelos digitais conforme aos objetos de estudos.
+A fim de que a pesquisa tenha uma maior precisão em seus resultados, será efetuado um estudo relacionado ao contexto histórico nas quais as obras estão inseridas, para que se tenha um aclaramento nas mudanças progressivas dos materiais e técnicas.
+Embora uma parte das informações para analise das construções possa ser retida sem que haja a necessidade de ir, presencialmente, até as edificações escolhidas, as visitas serão de vital importância para ter um maior entendimento de suas circunstâncias hodiernas em virtude das mais variadas ações a que foram submetidas. Além de que facilitará uma maior compreensão dos sistemas estruturais empregados nessas obras.
+A modelagem dos objetos será processada por meio dos seguintes programas: Revit, Archicad e Sketchup, que estão disponíveis para os sistemas operacionais do Windows e Mac. Tais ferramentas permitem desenvolver modelos digitais tridimensionais e bidimensionais, para que seja possível fazer uma visualização geral do sistema, e inserir informações importantes como as suas dimensões, materiais utilizados e outras características relevantes.
+
 Inserir a descrição da metodologia da pesquisa contendo os passos
 metodológicos necessários para a sua execução e para o alcance dos
 objetivos enunciados. Também devem ser descritos os recursos materiais
