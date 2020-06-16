@@ -1,9 +1,10 @@
 ---
-title: Tipologias de fundações na construção tradicional do Brasil central
+title : Tipologias de fundações na construção tradicional do Brasil central
 author: "Iriani Jéssica Pinto Ganga"
 date  : 2020-05-20
 nocite: "@*"
-bibliography: 'bibliography/pibic21-fundacoes.bib'
+csl   : "styles/associacao-brasileira-de-normas-tecnicas.csl"
+bibliography: 'pibic21-fundacoes.bib'
 ---
 
 Objetivos, problema e justificativa
