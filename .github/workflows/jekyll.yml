@@ -11,14 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - name: Checkout CSL styles for conversion
-      run: |
-        cd ${{ github.workspace }}
-        git submodule add https://github.com/citation-style-language/styles.git
     - name: Convert from Pandoc-Markdown to GFM
-      run: |
-        mkdir -p ${{ github.workspace }}/tmp
-        make build
+      run: make pandoc
     - name: Upload web pages
       uses: actions/upload-artifact@v2
       with:

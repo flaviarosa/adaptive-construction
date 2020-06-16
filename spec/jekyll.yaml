@@ -2,6 +2,7 @@ to        : gfm+smart
 standalone: true
 template  : 'lib/templates/default.jekyll'
 filters:
+- pandoc-xnos
 - pandoc-citeproc
 fail-if-warnings        : true
 file-scope              : true
@@ -10,7 +11,6 @@ shift-heading-level-by  : 1
 wrap                    : preserve
 resource-path:
 - .
-- fig
-- assets
+- figures
 metadata:
   link-citations: true

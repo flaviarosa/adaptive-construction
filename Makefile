@@ -2,9 +2,11 @@
 # ================
 # Where make should look for things
 VPATH = lib
-vpath %.csl lib/styles
+vpath %.csl styles
+vpath %.html .:_includes:_layouts:_site
+vpath %.xml _site
 vpath %.yaml .:spec
-vpath default.% lib/pandoc-templates
+vpath default.% lib/templates:lib/pandoc-templates
 
 # Branch-specific targets and recipes {{{1
 # ===================================
@@ -14,15 +16,28 @@ vpath default.% lib/pandoc-templates
 SRC   = $(filter-out README.md,$(wildcard *.md))
 DOCS := $(patsubst %.md,tmp/%.md, $(SRC))
 
-serve : 
-	bundle exec jekyll build 2>&1 | egrep -v 'deprecated'
-	bundle exec jekyll serve 2>&1 | egrep -v 'deprecated'
+deploy : pandoc build
 
-build : $(DOCS)
+pandoc : $(DOCS)
 
-tmp/%.md : %.md spec/jekyll.yaml lib/templates/default.jekyll biblio.bib
+build : sitemap.xml
+	docker run --rm -v "`pwd`:/srv/jekyll" jekyll/jekyll:4.1.0 \
+		/bin/bash -c "chmod 777 /srv/jekyll && jekyll build"
+
+build-local : build
+	mv -rf tmp/* _site/
+	-rm -rf styles
+
+tmp/%.md : %.md spec/jekyll.yaml default.jekyll biblio.bib
+	@test -e tmp || mkdir tmp
+	@test -e styles || git clone https://github.com/citation-style-language/styles.git
 	docker run --rm --volume "`pwd`:/data" --user `id -u`:`id -g` \
-		pandoc/core:2.9.2.1 -o $@ -d spec/jekyll.yaml $<
+		palazzo/pandoc-xnos:2.9.2.1 -o $@ -d spec/jekyll.yaml $<
+
+serve :
+	docker run --rm -v "`pwd`:/srv/jekyll" \
+		-h 127.0.0.1 -p 4000:4000 -it jekyll/jekyll:4.1.0 \
+		jekyll serve --skip-initial-build --no-watch
 
 # Install and cleanup {{{1
 # ===================
