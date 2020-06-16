@@ -1,7 +1,9 @@
 ---
 title: Tipologias de fundações na construção tradicional do Brasil central
-author: "Iriani Jéssica"
+author: "Iriani Jéssica Pinto Ganga"
 date  : 2020-05-20
+nocite: "@*"
+bibliography: 'bibliography/pibic21-fundacoes.bib'
 ---
 
 Objetivos, problema e justificativa
@@ -104,7 +106,6 @@ Viabilidade, recursos e metodologia
 Para que a realização da pesquisa transcorra de forma coesa e fluida, a
 mesma será organizada da seguinte forma:
 
-
 - Coleta de dados e informações por meio remoto e de visitas técnicas às
   edificações escolhidas; 
 - Reunir e analisar as características gerais e intrínsecas dos
@@ -131,12 +132,12 @@ mais variadas ações a que foram submetidas. Como também facilitará obter
 uma maior compreensão dos sistemas estruturais empregados nessas obras.
 
 Caso as visitas técnicas ou outras atividades presenciais tenham que ser
-suspensas, a coleta de material para a pesquisa não será prejudicada
-tendo em vista que há possibilidade de entrar em contato com as unidades
-administrativas de todas as cidades e verificar se há a disponibilização
-de adquirir informações relevantes por meio remoto, e se por algum
-motivo tal procedimento for considerado inviável, ainda será possível
-acessar referências de outros estudos e documentações.
+suspensas, a coleta de material para a pesquisa poderá ser compensada
+tendo em vista que há possibilidade de entrar em contato com os órgãos
+de patrimônio cultural e verificar se há a disponibilização de adquirir
+informações relevantes por meio remoto, e se por algum motivo tal
+procedimento for considerado inviável, ainda será possível acessar
+referências de outros estudos e documentações.
 
 Afim de que a indicação das causa e soluções relacionadas às
 problemáticas identificadas nos objetos tenha uma maior exatidão, serão
@@ -170,11 +171,11 @@ diversas áreas relacionadas à arquitetura em sua biblioteca, Cediarte
 Bibliografia
 ============
 
-Preenchimento não obrigatório, caso a bibliografia do plano de trabalho
-do(a) Aluno(a) já esteja inclusa na bibliografia da proposta de pesquisa
-do(a) Orientador(a)
+Para além da bibliografia geral do projeto de pesquisa, as referências
+seguintes são relevantes para este plano de trabalho:
 
-Texto com no máximo 2000 caracteres.
+::: {#refs}
+:::
 
 
 Competências e habilidades
