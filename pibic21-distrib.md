@@ -6,8 +6,6 @@ author:
   affiliation: ""
 ---
 
-# Distribuições da morada eclética em Goiás
-
 ## Objetivos, problema e justificativa
 
 Este plano de trabalho consiste numa classificação morfológica das

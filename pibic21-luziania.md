@@ -6,8 +6,6 @@ author:
   affiliation: ""
 ---
 
-# Arqueologia da morada suburbana na rua do Rosário, Luziânia
-
 ## Objetivos, problema e justificativa
 
 O objeto deste plano de trabalho é compilar uma documentação

@@ -6,8 +6,6 @@ author:
   affiliation: ""
 ---
 
-# Arqueologia da casa da fazenda Gama
-
 ## Objetivos, problema e justificativa
 
 Este plano de trabalho consiste na elaboração de um inventário

@@ -3,8 +3,6 @@ title: "Projeto de pesquisa"
 date: 2020-05-04
 ---
 
-# Projeto de pesquisa
-
 ## Planos de trabalho de iniciação científica
 
   - [Arqueologia da casa da fazenda Gama](pibic21-gama.md):

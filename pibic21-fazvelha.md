@@ -6,8 +6,6 @@ author:
   affiliation: ""
 ---
 
-# Arqueologia da casa da fazenda Velha, Distrito Federal
-
 ## Objetivos, problema e justificativa
 
 Este plano de trabalho busca resgatar o conhecimento construtivo e
