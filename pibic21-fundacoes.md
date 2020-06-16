@@ -1,6 +1,5 @@
 ---
-title: >
-  Tipologias de fundações na construção tradicional do Brasil central
+title: Tipologias de fundações na construção tradicional do Brasil central
 author: "Iriani Jéssica"
 date  : 2020-05-20
 ---
