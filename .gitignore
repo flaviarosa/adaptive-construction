@@ -18,6 +18,8 @@ styles
 
 # Jekyll {{{1
 _site/
+Gemfile.lock
+styles
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
