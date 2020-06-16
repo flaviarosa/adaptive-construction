@@ -60,7 +60,7 @@ readme_index:
   with_frontmatter: true
 
 exclude:
-  - *.bib
+  - "*.bib"
   - .git
   - .github
   - .install
