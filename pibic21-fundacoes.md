@@ -168,7 +168,6 @@ laboratório, a faculdade possui um grande acervo de livros sobre as mais
 diversas áreas relacionadas à arquitetura em sua biblioteca, Cediarte
 (Centro de Documentação Edgar Graeff). 
 
-
 Bibliografia
 ============
 
@@ -187,7 +186,6 @@ necessárias nos programas que serão utilizados durante o trabalhado  e
 conseguir lidar com uma grande quantidade de demanda de forma organizada
 e eficiente.  Além demostrar aptidão para dissertação e competência  em
 apresentações de forma clara e objetiva. 
-
 
 Cronograma
 ==========
