@@ -31,7 +31,7 @@ jobs:
       run: |
         git config --local user.email "runner@github.com"
         git config --local user.name  "$GITHUB_ACTOR"
-        git merge -s ours origin/master
+        git merge -s ours ${{ env.GITHUB_REF }}
     - name: Update pages
       uses: actions/download-artifact@v2
       with:

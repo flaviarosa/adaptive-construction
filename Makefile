@@ -33,4 +33,4 @@ tmp/%.md : %.md jekyll.yaml default.jekyll biblio.bib
 	@test -e tmp || mkdir tmp
 	@test -e styles || git clone https://github.com/citation-style-language/styles.git
 	docker run -v "`pwd`:/data" --user `id -u`:`id -g` \
-		palazzo/pandoc-xnos:2.9.2.1 -o $@ -d spec/jekyll.yaml $<
+		palazzo/pandoc-crossref:2.9.2.1 -o $@ -d spec/jekyll.yaml $<
