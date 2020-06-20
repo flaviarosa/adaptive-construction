@@ -74,37 +74,62 @@ cidade.
 Viabilidade, recursos e metodologia
 ===================================
 
-Inserir a descrição da metodologia da pesquisa contendo os passos
-metodológicos necessários para a sua execução e para o alcance dos
-objetivos enunciados. Também devem ser descritos os recursos materiais
-(bibliografia, computadores, softwares, metodologias, equipamentos de
-laboratório, reagentes e outros materiais e equipamentos de pesquisa) e
-a infraestrutura (laboratórios, salas de pesquisa, salas de informática
-e outros espaços) disponíveis para a execução do plano de trabalho do
-aluno, de maneira a mostrar a viabilidade da execução da pesquisa.
+Esta pesquisa será desenvolvida nas seguintes etapas:
 
-Texto com 4000 caracteres.
+- Levantamento arquitetônico de cada edificação, padronização gráfica
+  das plantas por meio de tecnologia BIM. 
+
+- Classificação dos sistemas construtivos, patologias, estados de
+  conservação e configuração da casa no lote
+
+- Em caráter urbanístico, interpretação da configuração dos lotes em
+  relação à rua e a expansão urbana da rua do Rosário
 
 
 Bibliografia
 ============
 
-Preenchimento não obrigatório, caso a bibliografia do plano de trabalho
-do(a) Aluno(a) já esteja inclusa na bibliografia da proposta de pesquisa
-do(a) Orientador(a)
-
-Texto com no máximo 2000 caracteres.
-
+::: {#refs}
+:::
 
 Competências e habilidades
 ==========================
 
-Texto com no máximo 1000 caracteres.
+Estudante do 8º semestre de Arquitetura e Urbanismo, período noturno.
+Residente da cidade de Luziânia – GO, local de sua proposta de pesquisa.
+
+Possui competências que auxiliarão no decorrer da pesquisa, tais como
+ArchiCAD - modelagem BIM,  AutoCAD, Sketchup, V-Ray, Pacote Office,
+Adobe InDesign, Illustrator e Photoshop.
+
+Apresenta experiência em levantamentos arquitetônicos, por parte de
+estágio em escritórios, extensão universitária e por trabalhos
+acadêmicos, como o levantamento da Casa da Cultura, realizado na
+disciplina de Brasil Colônia e Império, pivô da atual proposta de
+pesquisa. 
+
+Foi monitora da disciplina de Planejamento Urbano e realizou extensão
+universitária no projeto ATHOS – Assistência Técnica de Habitação Social
+para Melhorias Habitações. Familiarizada em debates que circundam os
+temas de patrimônio, território e cultura, sobretudo pela participação
+em 7 encontros regionais de estudantes de arquitetura - EREA.
 
 
 Cronograma
 ==========
 
-Mês a mês
-
+| Mês | Atividade                                                                                                      |
+| --: | :---------------------------------                                                                             |
+| 1   | Fundamentação e referência teórica                                                                             |
+| 2   | Fundamentação e referência teórica                                                                             |
+| 3   | Levantamento arquitetônico das edificações e execução do modelo BIM.                                           |
+| 4   | Levantamento arquitetônico das edificações e execução do modelo BIM.                                           |
+| 5   | Levantamento arquitetônico das edificações e execução do modelo BIM.                                           |
+| 6   | Levantamento arquitetônico das edificações e execução do modelo BIM. Padronização das representações técnicas. |
+| 7   | Classificação de sistemas construtivos, patologias, estado de conservação e implantação.                       |
+| 8   | Classificação de sistemas construtivos, patologias, estado de conservação e implantação.                       |
+| 9   | Análise urbanística da configuração dos lotes e interpretação da expansão urbana                               |
+| 10  | Análise urbanística da configuração dos lotes e interpretação da expansão urbana                               |
+| 11  | Revisão dos dados e conclusão                                                                                  |
+| 12  | Escrita do relatório final e formatação.                                                                       |
 

@@ -2,6 +2,9 @@
 title    : "Arqueologia da casa da fazenda Velha, Distrito Federal"
 author   : "Tainá Abreu"
 date     : 2020-04-13
+nocite   : "@*"
+csl      : "styles/associacao-brasileira-de-normas-tecnicas.csl"
+bibliography: "pibic21-fazvelha.bib"
 ---
 
 Objetivos, problema e justificativa
@@ -105,12 +108,8 @@ no local de pesquisa.
 Bibliografia
 ============
 
-Preenchimento não obrigatório, caso a bibliografia do plano de trabalho
-do(a) Aluno(a) já esteja inclusa na bibliografia da proposta de pesquisa
-do(a) Orientador(a)
-
-Texto com no máximo 2000 caracteres.
-
+::: {#refs}
+:::
 
 Competências e habilidades
 ==========================
@@ -137,18 +136,18 @@ maquetes manuais.
 Cronograma
 ==========
 
-Agosto/2020 - FUNDAMENTAÇÃ E PESQUISA BIBLIOGRÁFICA: Leituras dos materiais bibliográficos, estudos com base em documentações existentes e estruturação de ideias. 
-Setembro/2020 - FUNDAMENTAÇÃ E PESQUISA BIBLIOGRÁFICA: Leituras dos materiais bibliográficos, estudos com base em documentações existentes e estruturação de ideias.
-
-Outubro/2020 - FUNDAMENTAÇÃ E PESQUISA BIBLIOGRÁFICA: Leituras dos materiais bibliográficos, estudos com base em documentações existentes e estruturação de ideias.
-Novembro/2020 - VISITA EM CAMPO E COLETA DE DADOS: Observação da locação a ser estudada, fotografias e análise das características arquitetônicas.
-Dezembro/2020 - VISITA EM CAMPO E COLETA DE DADOS: Observação da locação a ser estudada, fotografias e análise das características arquitetônicas.
-Janeiro/2021 – VISITA EM CAMPO E COLETA DE DADOS: Observação da locação a ser estudada, fotografias e análise das características arquitetônicas.
-Fevereiro/2021 - ETAPAS DE DESENVOLVIMENTO TEXTUAL: Resumo - Pontos a serem abordados na pesquisa.
-Março/2021- ETAPAS DE DESENVOLVIMENTO TEXTUAL: Introdução - Embasamento teórico adotado na pesquisa.
-Abril/2021- ETAPAS DE DESENVOLVIMENTO TEXTUAL: Desenvolvimento - Expor dados e informações coletadas.
-Maio/2021- ETAPAS DE DESENVOLVIMENTO TEXTUAL: Desenvolvimento / Conclusão - Interpretar dados e informações coletadas.
-Junho/2021- ETAPAS DE DESENVOLVIMENTO TEXTUAL: Revisão - Apresentação de resultados e correções. 
-Julho/2021- ETAPAS DE DESENVOLVIMENTO TEXTUAL: Formatação.
-
+| Ano  | Mês       | Etapa                                                                                                                                                 |
+| ---: | :-------- | :---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2020 | Agosto    | FUNDAMENTAÇÃO E PESQUISA BIBLIOGRÁFICA: Leituras dos materiais bibliográficos, estudos com base em documentações existentes e estruturação de ideias. |
+| 2020 | Setembro  | FUNDAMENTAÇÃO E PESQUISA BIBLIOGRÁFICA: Leituras dos materiais bibliográficos, estudos com base em documentações existentes e estruturação de ideias. |
+| 2020 | Outubro   | FUNDAMENTAÇÃO E PESQUISA BIBLIOGRÁFICA: Leituras dos materiais bibliográficos, estudos com base em documentações existentes e estruturação de ideias. |
+| 2020 | Novembro  | VISITA EM CAMPO E COLETA DE DADOS: Observação da locação a ser estudada, fotografias e análise das características arquitetônicas.                    |
+| 2020 | Dezembro  | VISITA EM CAMPO E COLETA DE DADOS: Observação da locação a ser estudada, fotografias e análise das características arquitetônicas.                    |
+| 2021 | Janeiro   | VISITA EM CAMPO E COLETA DE DADOS: Observação da locação a ser estudada, fotografias e análise das características arquitetônicas.                    |
+| 2021 | Fevereiro | ETAPAS DE DESENVOLVIMENTO TEXTUAL: Resumo - Pontos a serem abordados na pesquisa.                                                                     |
+| 2021 | Março     | ETAPAS DE DESENVOLVIMENTO TEXTUAL: Introdução - Embasamento teórico adotado na pesquisa.                                                              |
+| 2021 | Abril     | ETAPAS DE DESENVOLVIMENTO TEXTUAL: Desenvolvimento - Expor dados e informações coletadas.                                                             |
+| 2021 | Maio      | ETAPAS DE DESENVOLVIMENTO TEXTUAL: Desenvolvimento / Conclusão - Interpretar dados e informações coletadas.                                           |
+| 2021 | Junho     | ETAPAS DE DESENVOLVIMENTO TEXTUAL: Revisão - Apresentação de resultados e correções.                                                                  |
+| 2021 | Julho     | ETAPAS DE DESENVOLVIMENTO TEXTUAL: Formatação.                                                                                                        |
 

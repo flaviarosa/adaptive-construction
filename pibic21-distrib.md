@@ -4,8 +4,8 @@ author   : "Flávia Rosa de la Plata"
 date     : 2020-04-13
 lang     : pt
 nocite   : "@*"
+csl      : 'styles/associacao-brasileira-de-normas-tecnicas.csl'
 bibliography: 'pibic21-distrib.bib'
-csl      : 'https://raw.githubusercontent.com/citation-style-language/styles/master/associacao-brasileira-de-normas-tecnicas.csl'
 ---
 
 Objetivos, problema e justificativa

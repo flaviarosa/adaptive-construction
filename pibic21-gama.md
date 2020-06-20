@@ -2,6 +2,9 @@
 title    : "Arqueologia da casa da fazenda Gama"
 author   : "Ana Caroline dos Santos Paiva"
 date     : 2020-04-13
+nocite   : "@*"
+csl      : "styles/associacao-brasileira-de-normas-tecnicas.csl"
+bibliography: "pibic21-gama.bib"
 ---
 
 Objetivos, problema e justificativa
@@ -64,36 +67,115 @@ estudada com outras construções análogas e com o território rural.
 Viabilidade, recursos e metodologia
 ===================================
 
-Inserir a descrição da metodologia da pesquisa contendo os passos
-metodológicos necessários para a sua execução e para o alcance dos
-objetivos enunciados. Também devem ser descritos os recursos materiais
-(bibliografia, computadores, softwares, metodologias, equipamentos de
-laboratório, reagentes e outros materiais e equipamentos de pesquisa) e
-a infraestrutura (laboratórios, salas de pesquisa, salas de informática
-e outros espaços) disponíveis para a execução do plano de trabalho do
-aluno, de maneira a mostrar a viabilidade da execução da pesquisa.
+Esta pesquisa será desenvolvida em três etapas:
 
-Texto com 4000 caracteres.
+- Levantamento, coleta de dados e sistematização de plantas e de
+  materiais iconográficos de uma tipologia das tradições arquitetônicas
+  e urbanísticas luso-brasileiras consolidada no planalto Central.
+  Informações essas a serem representadas e analisadas em modelo HBIM
+  (modelagem histórica de informações de construção);
 
+- Estabelecimento de um marco metodológico para a historiografia da
+  arquitetura luso-brasileira no longo século XIX, capaz de dar conta
+  tanto da teorização erudita quanto das práticas vernáculas encontradas
+  na construção de estudo;
+
+- Análise da integração e relação espaciais, do sistema construtivo,
+  detalhes, patologias e estado de conservação, gerando representações
+  gráficas e material teórico da construção vernácula.
+
+O enfoque dominante neste plano de trabalho é, portanto, a análise das
+configurações construtivas e espaciais da Casa da Fazenda Gama. Para
+tanto, serve-se dos materiais teóricos e principalmente aspectos
+físicos, para o desenvolver do produto tridimensional digital e o do
+trabalho final, um inventario documental. Os dados coletados e
+analisados permitirão ainda o estudo que relacione a arqueologia das
+antigas casas rurais do Distrito Federal, indicando as semelhanças e
+diferenças entre os padrões de configurações construtivas e espaciais
+das edificações.
+
+Esta pesquisa utilizará como fonte a documentação arquitetônica a ser
+recolhida em arquivos e na bibliografia indicada à pesquisa, o
+levantamento da edificação, o desenvolvimento da representação
+tridimensional digital e os documentos arquivísticos de órgãos públicos
+como o IPHAN (Instituto do Patrimônio Histórico e Artístico Nacional), o
+INCRA (Instituto Nacional de Colonização e Reforma Agrária), entre
+outros. 
+
+Os recursos a serem utilizados que viabilizam a execução da pesquisa
+partem da bibliografia adicionada, do uso de computador, internet,
+softwares da plataforma BIM e de arquitetura (Revit, AutoCAD), softwares
+de informática (Word, Excel e Power Point), softwares de design e
+ilustração (CorelDRAW, Illustrator e Photoshop), e de equipamentos para
+elaboração do levantamento (prancheta, trenas manual e digital,
+lapiseiras, folhas, câmera). De infraestrutura há na UnB como meio de
+pesquisas a Biblioteca Central e a FAU que oferecem a infraestrutura
+necessária para o desenvolvimento das análises, com destaque para o
+Laboratório de Informática para Arquitetura e Urbanismo (LIAU) situado
+nas dependências da faculdade, e para as plataformas digitais de
+compartilhamento de arquivos, como o Integra. 
+
+Em caso de prorrogação da suspensão de atividades presenciais durante a
+vigência do plano de trabalho, as atividades podem ser parte
+desenvolvidas remotamente, e parte, a que necessita de coleta de dados
+in loco, postergada até que haja a possibilidade de seu desenvolvimento.
 
 Bibliografia
 ============
 
-Preenchimento não obrigatório, caso a bibliografia do plano de trabalho
-do(a) Aluno(a) já esteja inclusa na bibliografia da proposta de pesquisa
-do(a) Orientador(a)
-
-Texto com no máximo 2000 caracteres.
-
+::: {#refs}
+:::
 
 Competências e habilidades
 ==========================
 
-Texto com no máximo 1000 caracteres.
+Ana Caroline, graduanda do 8º semestre em Arquitetura e Urbanismo pela
+UnB. Atualmente faz estágio no Senado Federal, participa do projeto de
+extensão Pé na Estrada e está cursando a Capacitação em ATHIS com
+enfoque em Melhorias Habitacionais pela CODHAB e instituições
+associadas. Na FAU-UnB, do Dept.º de Teoria e História, já concluiu 7
+disciplinas, tendo obtido MS e SS em 5 delas.
+
+Possui conhecimento prático em levantamento de edificações, adquiridos
+em seus anterior e atual estágios, onde também, no anterior atuou no
+desenvolvimento de projetos no programa Revit, produção de modelos
+tridimensionais no SketchUp, criação de planilhas de quantitativo,
+pesquisa e solicitação de orçamento de materiais e serviços
+complementares, e no estágio atual, atua em auxiliar no desenvolvimento
+de projetos na plataforma BIM, na elaboração de memoriais descritivos,
+no lançamento de dados em sistemas de controle de projetos e na
+quantificação e especificação de materiais. Na FAU-UnB já deu monitoria
+em Modelagem da Informação da Construção (BIM), auxiliando os alunos no
+Programa Revit principalmente, e em outros programas quando
+solicitado.Quando cursou a disciplina Arquitetura e Urbanismo no Brasil
+Colônia e Império, desenvolveu o levantamento técnico aproximado da Casa
+de Cora Coralina a partir de pesquisas teóricas e visuais, documentos
+arquivísticos e iconográficos. E nesse mesmo semestre e disciplina,
+também desenvolveu um trabalho de representação de esquadrias do centro
+histórico de Planaltina.
+
+Os softwares que possui maior domínio são Revit, AutoCAD, SketchUp,
+CorelDRAW, Illustrator, Photoshop, Word, Excel e Power Point.
 
 
 Cronograma
 ==========
 
-Mês a mês
+- Atividade do mês 1, 2 e 3 – Agosto a Outubro/2020
+  - Fundamentação da pesquisa a partir da leitura dos materiais
+    bibliográficos referenciados e pós encontrados, e pesquisa e
+    armazenamento de materiais iconográficos.
+- Atividade do mês 4, 5, 6 e 7 – Novembro/2020 a Fevereiro/2021
+  - Levantamento de campo e coleta de dados de dimensões, sistema
+    construtivo, detalhes, patologias e estado de conservação, coleta de
+    documentações arquivísticas junto aos órgãos competentes à
+    preservação do patrimônio histórico e ordenamento fundiária da
+    região como o IPHAN e o INCRA, e desenvolvimento da representação
+    tridimensional digital da casa.
+- Atividade do mês 8, 9, 10 e 11 – Março a Junho/2021
+  - Desenvolvimento do inventário documental a partir da construção da
+    redação e inserção dos resultados da modelagem digital e materiais
+    iconográficos.
+- Atividade do mês 12 – Julho/2021
+  - Revisão, formatação e entrega da pesquisa.
 
