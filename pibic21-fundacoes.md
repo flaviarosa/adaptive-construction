@@ -195,6 +195,12 @@ AVRAMI, E. C. et al. **Terra literature review: An overview of research in earth
 
 </div>
 
+<div id="ref-azevedo:1910annuario">
+
+AZEVEDO, F. F. DOS S. **Annuario historico, geographico e descriptivo do Estado de Goyaz**. Uberaba : Araguari : Goiás: Livraria Seculo XX : Aredio de Souza, 1910. 
+
+</div>
+
 <div id="ref-banta:2006development">
 
 BANTA, J. V.; DIEBOLT, K.; GILBERT, M. The Development and Use of a Tablet PC Annotation System for Conditions Surveys. **APT Bulletin**, v. 37, n. 2/3, p. 39--45, 1 jan. 2006. 
@@ -225,9 +231,21 @@ CORREIA, M. (ED.). **Vernacular Heritage and Earthen Architecture: Contributions
 
 </div>
 
+<div id="ref-cruz:2001patologia">
+
+CRUZ, H. **Patologia, Avaliação e Conservação de Estruturas Em Madeira**. **Anais**.... In: II CURSO LIVRE INTERNACIONAL DE PATRIMÓNIO. Santarém (Portugal): Forum UNESCO Portugal, mar. 2001
+
+</div>
+
 <div id="ref-fonseca:2007arquitectura">
 
 FONSECA, I. **Arquitectura de Terra Em Avis**. 1. ed. Lisboa: Argumentum, 2007. 
+
+</div>
+
+<div id="ref-gonzaga:2006madeira">
+
+GONZAGA, A. L. **Madeira: Uso e Conservação**. Brasília: IPHAN / Monumenta, 2006. 
 
 </div>
 
@@ -240,6 +258,12 @@ LAWRENCE, R. J. The Interpretation of Vernacular Architecture. **Vernacular Arch
 <div id="ref-mehaffy:2007sustainable">
 
 MEHAFFY, M. W. **Sustainable Building and Traditional Morphology: Implications of Evolving Research in Biophilia and Evidence-Based Design**. Oswego, Ore.: Sustasis Foundation, 2007. 
+
+</div>
+
+<div id="ref-moreschi:2013biodegradacao">
+
+MORESCHI, J. C. **Biodegradação e Preservação Da Madeira**. Curitiba: UFPR, Departamento de Engenharia Florestal, 2013. 
 
 </div>
 
@@ -276,6 +300,12 @@ SKARMEAS, G. C. From HABS to BIM: Personal Experiences, Thoughts, and Reflection
 <div id="ref-spallone:2016bim">
 
 SPALLONE, R.; PIANO, A.; PIANO, S. BIM e Beni Architettonici: Analisi e Rappresentazione Multiscalare e Multidimensionale Di Un Insediamento Storico. Il Caso Studio Di Montemagno, Borgo Nuovo Piemontese. **Disegnare Con**, v. 16, n. 1, p. 13.1--13.13, 2016. 
+
+</div>
+
+<div id="ref-vidal:2015preservacao">
+
+VIDAL, J. M. et al. Preservação de Madeiras No Brasil: Histórico, Cenário Atual e Tendências. **Ciência Florestal**, v. 25, n. 1, p. 257--271, jan. 2015. 
 
 </div>
 
