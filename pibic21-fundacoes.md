@@ -316,8 +316,13 @@ VIDAL, J. M. et al. Preservação de Madeiras No Brasil: Histórico, Cenário At
 A aluna apresenta capacidades necessárias para lidar e gerar informações
 necessárias nos programas que serão utilizados durante o trabalhado e
 conseguir lidar com uma grande quantidade de demanda de forma organizada
-e eficiente. Além demostrar aptidão para dissertação e competência em
+e eficiente, além demostrar aptidão para dissertação e competência em
 apresentações de forma clara e objetiva.
+
+Em particular, a aluna demonstra desenvoltura com soluções de tecnologia
+da informação e software livre, demonstrando capacidade de adquirir
+novas habilidades específicas em programas pouco habituais no âmbito do
+curso de Arquitetura e Urbanismo.
 
 ## Cronograma
 
