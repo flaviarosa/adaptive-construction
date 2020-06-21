@@ -135,7 +135,13 @@ Bibliografia
 :::
 
 Competências e habilidades
-==========================
+
+  Durante o curso, adquiri conhecimentos em diversos softwares, entre eles o QGIS e BIM. A experiência adquirida em QGIS se deu por meio das aulas de Projeto Urbanístico e Projeto Urbano, e a de BIM por meio de disciplinas obrigatórias e cursos a parte da faculdade. Além da experiência com softwares, já tive a oportunidade de fazer parte de pesquisas paralelas na FAU relacionada com espaços públicos com a professora Gabriela Tenório.
+	Além da Faculdade de Brasília da UnB, já participei de cursos e projetos com faculdades de outros estados e países, como a UFMG em parceria com a Universidade de Groninghen na Holanda, onde foram tratados assuntos acerca de aspectos urbanísticos e sustentabilidade, e também pude fazer um intercâmbio acadêmico pela Universidade de Sevila, na Espanha, onde pude entender um pouco mais a arquitetura tradicional e patrimônio urbano que carregam em seus estudos e pesquisas.
+Também pude participar de um projeto de pesquisa por meio do PIBIC no edital  2017/2018, com tema que remete a arquitetura e urbanismo de viés histórico, "A cidade brasileira do século XIX: Urbanização, arte e crítica na República Velha", também por meio do LabeUrbe. Com essa experiência, despertei o interesse em me aprofundar em novos assuntos e me inserir ainda mais no mundo da pesquisa acadêmica. 
+  Portanto, levando essas questões em consideração, despertei o interesse pelo plano de trabalho "Distribuições da morada eclética em Goiás" , pelo fato de ser uma área que já tive a oportunidade de estudar e explorar ao longo da disciplina "Arquitetura e Urbanismo no Brasil Contemporâneo"  ministrada na FAU UnB, e por ser um assunto que agrega mais da parte de arquitetura histórica, o que me agrada bastante, levando em consideração que meu último projeto de pesquisa necessitava de uma investigação voltada para a escala urbana. 
+  Por meio deste breve texto acredito que pude evidenciar um pouco do meu interesse e das minhas habilidades, e acredito que possuo motivação e aptidão para desenvolver o trabalho da melhor forma possível.
+
 
 Texto com no máximo 1000 caracteres.
 
