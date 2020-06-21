@@ -78,13 +78,38 @@ Esta pesquisa será desenvolvida nas seguintes etapas:
 
 - Levantamento arquitetônico de cada edificação, padronização gráfica
   das plantas por meio de tecnologia BIM. 
-
 - Classificação dos sistemas construtivos, patologias, estados de
   conservação e configuração da casa no lote
-
 - Em caráter urbanístico, interpretação da configuração dos lotes em
   relação à rua e a expansão urbana da rua do Rosário
 
+A modelagem e representação da casa de Cultura constitui, portanto,
+etapa intermediária na compreensão da lógica construtiva e da evolução
+no estado de conservação da edificação. Serão desenvolvidas, em
+associação com pesquisas de mestrado em andamento na FAU--UnB,
+metodologias para formatar, inserir no modelo e extrair dele dados
+semânticos sobre essas questões.
+
+A casa de Cultura de Luziânia possui um pequeno acervo documental e
+iconográfico sobre sua própria história e a da sua cidade, que será
+estudado para levantamento de informações sobre o contexto e as
+alterações sofridas pela edificação.
+
+O principal recurso para a documentação da casa, contudo, será a
+fotogrametria digital, com uso de software livre como o MicMac
+[@rupnik:2017micmac2] e MeshLab, para criação e processamento de nuvem
+de pontos. Para modelagem e introdução de dados semânticos, serão
+utilizados programas de Building Information Modeling (BIM)
+disponíveis no Laboratório de Informática Aplicada à Arquitetura e
+Urbanismo (LIAU) da UnB, como o Revit. Outros programas utilizados para
+representação e apresentação dos resultados, como o pacote Adobe ---
+Illustrator, Photoshop e InDesign --- também estão disponíveis no LIAU.
+
+Mesmo em caso de impossibilidade de acesso aos laboratórios da UnB, será
+possível dar continuidade ao trabalho, mediante o uso das versões dos
+programas licenciadas para estudantes. As visitas à casa de Cultura
+poderão ser realizadas com respeito às normas de segurança e
+distanciamento social.
 
 Bibliografia
 ============

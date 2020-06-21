@@ -82,28 +82,26 @@ Esta pesquisa será desenvolvida em três etapas:
 A abordagem desta pesquisa é, então, suprir a lacuna documental sobre a
 Fazenda Velha e sua Capela existente, pois tal locação é reconhecida
 como um elemento muito importante para o turismo de Brasília e é
-considerado um patrimônio histórico e artístico do DF. Contudo,
-contribuir com mais informações arquitetônicas e urbanísticas é
-essencial. 
+considerado um patrimônio histórico e artístico do DF.
 
-Este trabalho utilizará desde recursos mais atuais a recursos mais
-antigos, como a pesquisa via Internet e pesquisas em livros, revistas e
-artigos. Será analisado documentações e fotos da história da fazenda
-para coleta de dados para agregar no trabalho proposto. Softwares como
-AutoCad, SIG e QGIS servirão para os desenhos de mapeamento e
-implantação da antiga zona rural, assim como, SketchUp consisti em ser
-utilizado para desenhos de característica arquitetônica, como maquete
-eletrônica em 3D. Para representação gráfica e trabalhos com imagens
-serão utilizados os Softwares como, Illustrator, Photoshop e Power
-Point.
+Este trabalho utilizará desde recursos da tecnologia atual a modos
+tradicionais de pesquisa bibliográfica. Analisaremos
+documentações e fotos da história da fazenda para coleta de dados para
+agregar no trabalho proposto. Softwares como AutoCad, SIG e QGIS
+servirão para os desenhos de mapeamento e implantação da antiga zona
+rural, assim como, SketchUp consisti em ser utilizado para desenhos de
+característica arquitetônica, como maquete eletrônica em 3D. Para
+representação gráfica e trabalhos com imagens serão utilizados os
+Softwares como Illustrator, Photoshop e Power Point.
 
-Quanto a viabilidade, a FAU-UnB disponibiliza o laboratório de
+Quanto à viabilidade, a FAU-UnB disponibiliza o laboratório de
 informática como o LIAU para coleta de informações da pesquisa e ateliês
 e salas para reuniões. A universidade oferece o acervo da Biblioteca
 Central da UnB juntamente com seu laboratório de informática para fins
 do trabalho. Para prevenção de suspensão de atividades presenciais, a
-pesquisa poderá ser realizada remotamente com as investigações e visitas
-no local de pesquisa.
+pesquisa poderá ser realizada remotamente, com uso de programas
+licenciados para estudantes e de software livre, mantendo-se as
+investigações e visitas no local de pesquisa.
 
 Bibliografia
 ============
@@ -114,24 +112,19 @@ Bibliografia
 Competências e habilidades
 ==========================
 
-A aluna demostra ser comprometida as atividades acadêmicas podendo
-comprovar tal adjetivo por meio das menções e frequências nas matérias
-cursadas. Completou mais da metade da grade de história, sendo que nas
-matérias ARQUITETURA E URBANISMO DA SOCIEDADE INDUSTRIAL e ARQUITETURA E
-URBANISMO NO BRASIL COLÔNIA E IMPÉRIO obteve-se a menção SS.
+A aluna demostra ser comprometida as atividades acadêmicas. Completou
+mais da metade da grade de história da FAU--UnB, tendo obtido menção SS
+naquelas de maior interesse para este plano de trabalho, inclusive
+Arquitetura e Urbanismo no Brasil Colônia e Império. Possui conhecimento
+avançado em inglês, relevante para a compreensão da bibliografia, e
+realizou viagens de estudos a Pirenópolis, Rio de Janeiro e São Paulo,
+seja no âmbito de disciplinas da faculdade, seja de modo autônomo.
 
-Possui conhecimento avançado em inglês e teve contato com lugares
-históricos como Pirenópolis, Rio de Janeiro e São Paulo o que demonstra
-o conhecimento da junção entre a teoria e a prática. Na cidade de
-Pirenópolis, foi feita uma visita, juntamente com Professores da FAU-UnB
-da mateira de INTRODUÇÃO A ARQUITETURA E URBANISMO. Já nas outras
-cidades, as visitas foram feitas por espontânea vontade da aluna,
-juntamente com incentivos de alguns professores durante aulas
-presenciais na faculdade.
-
-Apresenta habilidades nos Softwares Autocad, SketchUp, Photoshop,
-Illustrator, QGIS, Power Point, Excel e Word. Além de ser hábil em
-maquetes manuais.
+Tem conhecimento suficiente para usar com desenvoltura os Softwares
+AutoCAD, SketchUp, Photoshop, Illustrator, QGIS, PowerPoint, Excel e
+Word, além de ser hábil em maquetes manuais. Durante o processo de
+elaboração deste plano de trabalho, foi proativa e demonstrou
+desenvoltura com os novos recursos tecnológicos da UnB.
 
 Cronograma
 ==========

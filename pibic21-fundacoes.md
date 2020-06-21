@@ -1,6 +1,6 @@
 ---
 title : Tipologias de fundações na construção tradicional do Brasil central
-author: "Iriani Jéssica Pinto Ganga"
+author: "Iriani Jéssica Pinto Gangá"
 date  : 2020-05-20
 nocite: "@*"
 csl   : "styles/associacao-brasileira-de-normas-tecnicas.csl"
@@ -184,8 +184,13 @@ Competências e habilidades
 A aluna apresenta capacidades necessárias para lidar e gerar informações
 necessárias nos programas que serão utilizados durante o trabalhado  e
 conseguir lidar com uma grande quantidade de demanda de forma organizada
-e eficiente.  Além demostrar aptidão para dissertação e competência  em
+e eficiente, além demostrar aptidão para dissertação e competência  em
 apresentações de forma clara e objetiva. 
+
+Em particular, a aluna demonstra desenvoltura com soluções de tecnologia
+da informação e software livre, demonstrando capacidade de adquirir
+novas habilidades específicas em programas pouco habituais no âmbito do
+curso de Arquitetura e Urbanismo.
 
 Cronograma
 ==========

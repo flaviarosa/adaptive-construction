@@ -129,33 +129,22 @@ Bibliografia
 Competências e habilidades
 ==========================
 
-Ana Caroline, graduanda do 8º semestre em Arquitetura e Urbanismo pela
-UnB. Atualmente faz estágio no Senado Federal, participa do projeto de
-extensão Pé na Estrada e está cursando a Capacitação em ATHIS com
-enfoque em Melhorias Habitacionais pela CODHAB e instituições
-associadas. Na FAU-UnB, do Dept.º de Teoria e História, já concluiu 7
-disciplinas, tendo obtido MS e SS em 5 delas.
+Ana Caroline encontra-se cursa o 8.º semestre do curso de graduação em
+Arquitetura e Urbanismo da UnB. Teve bom aproveitamento sob minha
+docência em Arquitetura e Urbanismo no Brasil Colônia e Império, quando
+desenvolveu o levantamento técnico aproximado da Casa de Cora Coralina a
+partir de pesquisas teóricas e visuais, documentos arquivísticos e
+iconográficos. Foi monitora em Modelagem da Informação da Construção
+(BIM), demonstrando seu conhecimento avançado de uma das ferramentas
+essenciais deste plano de trabalho. 
 
-Possui conhecimento prático em levantamento de edificações, adquiridos
-em seus anterior e atual estágios, onde também, no anterior atuou no
-desenvolvimento de projetos no programa Revit, produção de modelos
-tridimensionais no SketchUp, criação de planilhas de quantitativo,
-pesquisa e solicitação de orçamento de materiais e serviços
-complementares, e no estágio atual, atua em auxiliar no desenvolvimento
-de projetos na plataforma BIM, na elaboração de memoriais descritivos,
-no lançamento de dados em sistemas de controle de projetos e na
-quantificação e especificação de materiais. Na FAU-UnB já deu monitoria
-em Modelagem da Informação da Construção (BIM), auxiliando os alunos no
-Programa Revit principalmente, e em outros programas quando
-solicitado.Quando cursou a disciplina Arquitetura e Urbanismo no Brasil
-Colônia e Império, desenvolveu o levantamento técnico aproximado da Casa
-de Cora Coralina a partir de pesquisas teóricas e visuais, documentos
-arquivísticos e iconográficos. E nesse mesmo semestre e disciplina,
-também desenvolveu um trabalho de representação de esquadrias do centro
-histórico de Planaltina.
-
-Os softwares que possui maior domínio são Revit, AutoCAD, SketchUp,
-CorelDRAW, Illustrator, Photoshop, Word, Excel e Power Point.
+Atualmente estagia no Senado Federal, participa do projeto de extensão
+Pé na Estrada e está cursando a Capacitação em Assistência Técnica em
+Habitação de Interesse Social. Possui conhecimento prático em
+levantamento de edificações, adquiridos em seus anterior e atual
+estágios. Já atuou no desenvolvimento de projetos, produção de modelos
+tridimensionais, e criação de planilhas de quantitativos --- habilidades
+relevantes para a documentação de edifícios históricos.
 
 
 Cronograma
